@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b1024eca93c35048b109f46583ca521, type: 3}
+  m_Name: SymbolDatabase
+  m_EditorClassIdentifier: 
+  symbols:
+  - name: Icon_1
+    sprite: {fileID: 21300000, guid: 9437459bcaa0e2e43820efe2aad02147, type: 3}
+  - name: Icon_2
+    sprite: {fileID: 21300000, guid: b8a379625aa830e4592c7932afca7334, type: 3}
+  - name: Icon_3
+    sprite: {fileID: 21300000, guid: 713378fc907ff7041a5e3e2b72b51dfe, type: 3}
